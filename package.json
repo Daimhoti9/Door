@@ -2,7 +2,7 @@
   "homepage": "https://daimhoti9.github.io/door",
   "name": "frontend",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "dependencies": {
     "@react-three/drei": "^9.88.13",
     "@react-three/fiber": "^8.15.10",
